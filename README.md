@@ -5,6 +5,10 @@ Talk on "Importance of Git & GitHub" organized by COMSATS Science Society on Apr
 - Fork this repository
 - Clone your copy of Repository on your local directory
 - Edit **participants.txt** and add your name and registration number
+Note: Following pattern should be followed to add your name in participants file
+```
+<your_full_name>,<your_registration_number>;
+```
 - Git add changed **participants.txt** file.
 - Git commit and push to your own repository. 
 - Create a pull request to my repository so that I can merge your changes to my master branch
